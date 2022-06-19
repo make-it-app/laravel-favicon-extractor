@@ -16,6 +16,7 @@ return [
     |
     */
     'provider_class'            => GoogleProvider::class,
+
     /*
     |--------------------------------------------------------------------------
     | Filename Generator
@@ -30,6 +31,7 @@ return [
     |
     */
     'filename_generator_class'  => FilenameGenerator::class,
+
     /*
     |--------------------------------------------------------------------------
     | Filename Generator Length
