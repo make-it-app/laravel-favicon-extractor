@@ -18,6 +18,6 @@ php artisan vendor:publish --provider="MakeIT\LaravelFaviconExtractor\FaviconExt
 
 # Usage
 
-See `/src/FaviconExtractorHelper.php` class.
+See [/src/FaviconExtractorHelper.php](https://github.com/make-it-app/laravel-favicon-extractor/blob/92ab06fd2aecd675ce421c74427e5bd0207c6cc7/src/FaviconExtractorHelper.php) class.
 
 # LICENSE MIT
