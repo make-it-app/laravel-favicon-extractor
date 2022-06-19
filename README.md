@@ -7,3 +7,4 @@ https://github.com/stefanbauer/laravel-favicon-extractor
 
 - Removed Laravel 5.5-7 legacy. Laravel 8+ only
 - Adapted to PHP 8+
+- There is an undercut, but it's not critical
