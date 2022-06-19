@@ -9,9 +9,15 @@ https://github.com/stefanbauer/laravel-favicon-extractor
 - Adapted to PHP 8+
 - There is an undercut, but it's not critical
 
-### Installation
+# Installation
 
 ```bash
 composer require make-it-app/laravel-favicon-extractor
 php artisan vendor:publish --provider="MakeIT\LaravelFaviconExtractor\FaviconExtractorServiceProvider" --tag="config"
 ```
+
+# Usage
+
+See `/src/FaviconExtractorHelper.php` class.
+
+# LICENSE MIT
